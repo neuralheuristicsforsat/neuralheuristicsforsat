@@ -1,0 +1,12 @@
+jupyterlab
+tensorflow==1.12
+sympy
+sklearn
+scipy  # implicitly reqiuired by sklearn
+matplotlib
+pandas
+python-sat
+google-api-python-client  # reports
+google-cloud-storage  # reports, 1.4 onwards conflicts with the old Neptune
+oauth2client  # reports
+tqdm
