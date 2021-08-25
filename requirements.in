@@ -1,5 +1,5 @@
 jupyterlab
-tensorflow==1.12
+tensorflow==2.5.1
 sympy
 sklearn
 scipy  # implicitly reqiuired by sklearn
